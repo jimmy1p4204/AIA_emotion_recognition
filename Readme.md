@@ -12,5 +12,5 @@
 - model.h5 (= model_Adam.h5)
 
 如何使用情緒辨識功能
-1. 照片取名 photo.png
+1. 照片取名 photo.png, 放到資料夾下
 2. 執行 python main.py
